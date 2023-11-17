@@ -1,0 +1,5 @@
+How to work with Mongoose 
+
+1. Schema - Define the Structure
+2. Schema - Model
+3. Using Model we do CRUD operation
