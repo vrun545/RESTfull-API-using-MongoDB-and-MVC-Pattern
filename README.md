@@ -1,5 +1,3 @@
-# RESTfull-API-using-MongoDB-and-MVC-Pattern
-
 ## Overview
 
 Welcome to the "RESTful APIs with ExpressJS and MongoDB - A Complete Guide" project! This repository serves as a comprehensive resource for developers looking to build RESTful APIs using ExpressJS and MongoDB, following the MVC (Model-View-Controller) pattern.
