@@ -1,7 +1,4 @@
 # RESTfull-API-using-MongoDB-and-MVC-Pattern
-A complete guide to RESTful API using ExpressJS and MongoDB followed by MVC pattern.
-
-# RESTful APIs with ExpressJS and MongoDB - A Complete Guide
 
 ## Overview
 
